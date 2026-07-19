@@ -7,5 +7,5 @@ echo "Har Har Shambhu"
 echo "Radhe Radhe"
 echo "Jai ShriKrishna"
 echo "Jai Shree Ram"
-
+echo "Jay ma Sita"
 echo "OM NAMAH SHIVAY"
